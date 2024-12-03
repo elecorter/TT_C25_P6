@@ -2,5 +2,4 @@
 proyecto desarrollo de software TT latam
 
 breve descripción sobre la aplicación web:
-los dos gráficos nos sirven para mostrar el kilometraje de cada auto
-y su precio en comparación con su kilometraje
+los dos gráficos, tanto el hist como el scatter, se puede visualizar cierto tipo de vehiculos resaltando su kilometraje/precio, mostrándonos un conjunto de datos de anuncios de ventas de coches
